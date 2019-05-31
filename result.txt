@@ -1,0 +1,25 @@
+Input: 192.168.0.116/24
+
+IP decimal: 192.168.0.116
+IP binary: 11000000.10101000.00000000.01110100
+
+Mask number: 24
+Mask decimal: 255.255.255.0
+Mask binary: 11111111.11111111.11111111.00000000
+Number of host's bits: 8
+
+Network decimal: 192.168.0.0
+Network binary: 11000000.10101000.00000000.00000000
+Network class: C
+Network type: Private
+
+Broadcast decimal: 192.168.0.255
+Broadcast binary: 11000000.10101000.00000000.11111111
+
+First host decimal: 192.168.0.1
+First host binary: 11000000.10101000.00000000.00000001
+
+Last host decimal: 192.168.0.254
+Last host binary: 11000000.10101000.00000000.11111110
+
+Maximum number of hosts: 254
